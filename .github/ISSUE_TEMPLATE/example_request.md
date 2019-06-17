@@ -15,6 +15,28 @@ A clear and concise description of what the example is for. Ex. How to generate 
 **Rationale**
 A clear and concise description of the purpose and rationale for including this example. Make reference to tools and situations in which this code is used or needed.
 
+**Languages and frameworks**
+
+- [ ] Bash
+- [ ] C
+- [ ] C#
+- [ ] C (`libcurl`)
+- [ ] C++ (`qt5`, `tizen`, `cpprest`)
+- [ ] Clojure
+- [ ] Dart
+- [ ] Go
+- [ ] Haskell (http-client, Servant)
+- [ ] Java (Jersey1.x, Jersey2.x, OkHttp, Retrofit1.x, Retrofit2.x, Feign, RestTemplate, RESTEasy, Vertx, Google API Client Library for Java, Rest-assured)
+- [ ] Javascript / Typescript (nodejs, angular.js, fetch, axios)
+- [ ] Objective-C
+- [ ] PowerShell
+- [ ] Python
+- [ ] R
+- [ ] Ruby
+- [ ] Rust (rust, rust-server)
+- [ ] Scala (akka, http4s, swagger-async-httpclient)
+- [ ] Swift (2.x, 3.x, 4.x)
+
 **Implementation steps**
 
 1. Create CLI project '...'
