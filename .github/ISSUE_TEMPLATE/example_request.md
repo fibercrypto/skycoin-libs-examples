@@ -26,9 +26,14 @@ A clear and concise description of the purpose and rationale for including this 
 - [ ] Dart
 - [ ] Go
 - [ ] Haskell (http-client, Servant)
-- [ ] Java (Jersey1.x, Jersey2.x, OkHttp, Retrofit1.x, Retrofit2.x, Feign, RestTemplate, RESTEasy, Vertx, Google API Client Library for Java, Rest-assured)
+- [ ] Java (Android, Jersey1.x, Jersey2.x, OkHttp, Retrofit1.x, Retrofit2.x, Feign, RestTemplate, RESTEasy, Vertx, Google API Client Library for Java, Rest-assured)
 - [ ] Javascript / Typescript (nodejs, angular.js, fetch, axios)
+- [ ] Julia
+- [ ] Kotlin
+- [ ] Lua
 - [ ] Objective-C
+- [ ] Perl
+- [ ] PHP
 - [ ] PowerShell
 - [ ] Python
 - [ ] R
